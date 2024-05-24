@@ -1,0 +1,21 @@
+git commands:
+
+1) git init: this command initializes the git repository in the present wrking directory
+
+syntax: git init
+
+2) commit: this command is used to sav the current version ofyour codebase as a save point with an exclusive name to init
+
+syntax: git commit -m "commit name"
+
+3) push: this command is used to push the current staged commits to the repository and initialize the version control
+syntax: git push -u origin
+
+4) pull: this command is used to pull the code on the repository to the present wrking directory
+syntax: git pull
+
+5) clone: this command is used to clone the repository to the working directory, it can done through copying the url given in the repository
+syntax: git clone url
+
+6) checkout: checkout command is used to view the different branches in the current working repository
+syntax: git checkout branch
